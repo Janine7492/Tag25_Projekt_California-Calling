@@ -1,0 +1,6 @@
+@mixin text-style($fz, $ff, $td, $ta) {
+    font-size: $fz;
+    font-family: $ff;
+    text-decoration: $td;
+    text-align: $ta;
+}
